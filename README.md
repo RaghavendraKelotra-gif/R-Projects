@@ -1,6 +1,6 @@
-# 📊 Introduction to R — Projects Portfolio
+#  Introduction to R — Projects Portfolio
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 intro-to-r-projects/
