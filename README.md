@@ -32,17 +32,17 @@ intro-to-r-projects/
 
 ---
 
-## 🗂️ Projects at a Glance
+##  Projects at a Glance
 
 | # | Project | Core R Topics | Charts |
 |---|---------|--------------|--------|
-| 1 | 🎰 Vegas Gambling Analysis | Vectors, named vectors, vector arithmetic | 3 |
-| 2 | ⭐ Star Wars Box Office | Matrices, rowSums/colSums, cbind | 3 |
-| 3 | 📋 Student Survey Analysis | Data Frames, Factors, Lists | 4 |
+| 1 |  Vegas Gambling Analysis | Vectors, named vectors, vector arithmetic | 3 |
+| 2 |  Star Wars Box Office | Matrices, rowSums/colSums, cbind | 3 |
+| 3 |  Student Survey Analysis | Data Frames, Factors, Lists | 4 |
 
 ---
 
-## 🎰 Project 1 — Vegas Gambling Analysis
+##  Project 1 — Vegas Gambling Analysis
 
 **File:** `Project1_Vegas_Gambling/Project1_Vegas_Gambling_Vectors.R`
 
@@ -66,7 +66,7 @@ Analyzes a week of casino results for Poker and Roulette across 7 days using **v
 
 ---
 
-## ⭐ Project 2 — Star Wars Box Office Analysis
+##  Project 2 — Star Wars Box Office Analysis
 
 **File:** `Project2_StarWars_BoxOffice/Project2_StarWars_BoxOffice_Matrices.R`
 
@@ -91,7 +91,7 @@ Builds a matrix of box office earnings (US and Non-US) for 6 Star Wars films and
 
 ---
 
-## 📋 Project 3 — Student Survey Analysis
+##  Project 3 — Student Survey Analysis
 
 **File:** `Project3_Student_Survey/Project3_StudentSurvey_DataFrames_Factors_Lists.R`
 
@@ -115,34 +115,3 @@ Analyzes a fictional class survey of 20 students. Tracks exam scores, study hour
 | Chart 2 | Scatter Plot | Study hours vs exam score with trend line |
 | Chart 3 | Pie Chart | Distribution of favourite subjects |
 | Chart 4 | Box Plot | Score distribution by favourite subject |
-
----
-
-## ▶️ How to Run
-
-**1. Install R and RStudio**
-- R: https://cran.r-project.org
-- RStudio: https://posit.co/download/rstudio-desktop
-
-**2. Install Required Packages** (run once in RStudio):
-```r
-install.packages("ggplot2")
-install.packages("tidyr")
-```
-
-**3. Run a Project**
-1. Open any `.R` file in RStudio
-2. Press `Ctrl + A` to select all
-3. Press `Ctrl + Enter` to run
-4. Charts appear in the Plots panel and save as `.png` files
-
----
-
-## 🛠️ Requirements
-
-| Tool | Version |
-|------|---------|
-| R | 4.0 or higher |
-| RStudio | Any recent version |
-| ggplot2 | Latest (from CRAN) |
-| tidyr | Latest (from CRAN) |
