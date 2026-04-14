@@ -1,14 +1,5 @@
 # 📊 Introduction to R — Projects Portfolio
 
-![R](https://img.shields.io/badge/Language-R-276DC3?style=flat&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/IDE-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
-![ggplot2](https://img.shields.io/badge/Package-ggplot2-FF6F61?style=flat)
-![Status](https://img.shields.io/badge/Status-Complete-2ECC71?style=flat)
-
-> A collection of 3 beginner R projects covering **Vectors**, **Matrices**, **Factors**, **Data Frames**, and **Lists** — built as part of the *Introduction to R* course.
-
----
-
 ## 📁 Repository Structure
 
 ```
