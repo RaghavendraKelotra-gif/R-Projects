@@ -155,20 +155,3 @@ install.packages("tidyr")
 | RStudio | Any recent version |
 | ggplot2 | Latest (from CRAN) |
 | tidyr | Latest (from CRAN) |
-
----
-
-## 📚 Course Topics Coverage
-
-| Chapter | Topic | Used In |
-|---------|-------|---------|
-| Ch. 1 | Intro Basics — variables, data types | All projects |
-| Ch. 2 | Vectors | Project 1 |
-| Ch. 3 | Matrices | Project 2 |
-| Ch. 4 | Factors | Project 3 |
-| Ch. 5 | Data Frames | Project 3 |
-| Ch. 6 | Lists | Project 3 |
-
----
-
-*Introduction to R — Course Portfolio*
